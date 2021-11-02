@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif?cid=ecf05e47ge912k2mhhoa7ltrj60oafv1ryewpajdkbmlnxbx&rid=giphy.gif&ct=g" width="1000" height="150" >
+<img src="https://media0.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=ecf05e47oqicm1oufxzihtwinnm85w39oq70dbp9ejq0mki2&rid=giphy.gif&ct=g" width="1000" height="150" >
 </div>
 <div align="center"> 
 <h1> Olá, eu sou o Igor! </h1>
