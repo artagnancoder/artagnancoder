@@ -5,9 +5,10 @@
 <h1 font-family: Goudy Bookletter 1911, sans-serif> Olá, eu sou o Igor! </h1>
 </div>
 
-
+<div align="center"> 
 - 🏗 Desenvolvedor front-end
 - 🔍 Se especializando em React.js
+ </div>
 
 <div align="center">
   
