@@ -1,4 +1,7 @@
-## Olá, eu sou o Igor!
+<div> 
+<h1> Olá, eu sou o Igor! </h1>
+</div>
+
 
 - 🏗 Desenvolvedor front-end
 - 🔍 Se especializando em React.js
