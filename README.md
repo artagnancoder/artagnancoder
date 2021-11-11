@@ -6,8 +6,8 @@
 </div>
 
 
-- 🏗 <h3> Desenvolvedor front-end </h3>
-- 🔍 <h3>Se especializando em React.js </h3>
+- 🏗  Desenvolvedor front-end 
+- 🔍 Se especializando em React.js 
  
 
 <div align="center">
