@@ -10,12 +10,26 @@
 - 🔍 Se especializando em React.js 
  
 
-<div align="center">
-  
-  <a href="https://github.com/artagnancoder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artagnancoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
  
-</div>
+ <h1 align="center"></h1>
+<br>
+<h1 align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub Metrics" align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=artagnancoder&theme=dark&border=61dafb&hide_border=true"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub Streak Stats" align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=artagnancoder&show_icons=true&theme=dark&border_color=61dafb&hide_border=true"/>
+    </a>
+  </div>
+  <br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Top Langs" align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=artagnancoder&hide=TeX&layout=compact&theme=dark&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
