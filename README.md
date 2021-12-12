@@ -2,12 +2,9 @@
 <img src="https://media1.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif?cid=ecf05e47awroicrhqpwh7hfdh2uidamc29z44qn3larl30n2&rid=giphy.gif&ct=g" width="1000" height="150" >
 </div>
 <div align="center"> 
-<h1 font-family: Goudy Bookletter 1911, sans-serif> Olá, eu sou o Igor! </h1>
+
+<h1 font-family: Goudy Bookletter 1911, sans-serif> 🏗  Web developer at Meta Tecnologia. </h1>
 </div>
-
-
-- 🏗  Desenvolvedor front-end 
-- 🔍 Se especializando em React.js 
  
 
 
